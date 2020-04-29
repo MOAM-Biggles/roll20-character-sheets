@@ -1,6 +1,6 @@
 # MIDGARD RPG Character Sheet (M5)
 
-Character sheet for the German RPG MIDGARD &copy;.
+Character sheet for the German RPG MIDGARD.
 Created with permission by the copyright holder VF&SF.
 ---
 Charactersheet für MIDGARD nach den Regeln der 5. Auflage.
