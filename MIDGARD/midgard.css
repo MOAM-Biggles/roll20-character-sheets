@@ -1,6 +1,6 @@
 /*@import url('https://fonts.googleapis.com/css2?family=Nunito|Montserrat|Oswald&display=swap');*/
 .charsheet {
-	background: url('https://upload.wikimedia.org/wikipedia/commons/8/84/Parchment.00.jpg');
+	background: url('https://github.com/MOAM-Biggles/roll20-character-sheets/blob/master/MIDGARD/images/parchment.jpg?raw=true');
 	background-size:cover;
 }
 
@@ -20,6 +20,11 @@
 .sheet-float-left {
 	float: left;
 	width: calc(100% - 300px);
+	display: flex !important;
+	flex-wrap: wrap;
+}
+.sheet-flex {
+	width: 100%;
 	display: flex !important;
 	flex-wrap: wrap;
 }
